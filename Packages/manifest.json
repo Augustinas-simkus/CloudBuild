@@ -40,8 +40,8 @@
   },
   "lock": {
     "com.augustinas_simkus.package_with_a_scene": {
-      "hash": "79d25e4bc42f126280c86de0fe03638a0afbf391",
-      "revision": "HEAD"
+      "revision": "HEAD",
+      "hash": "6633cf40306e581ffcc8e5b84ea165a295f31fa8"
     }
   }
 }
